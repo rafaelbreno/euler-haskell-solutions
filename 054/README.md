@@ -1,4 +1,7 @@
 ## Problem
+
+#### Warning, the result of my solution is wrong. Still working on it.
+
 <p>In the card game poker, a hand consists of five cards and are ranked, from lowest to highest, in the following way:</p>
 <ul><li><b>High Card</b>: Highest value card.</li>
 <li><b>One Pair</b>: Two cards of the same value.</li>
